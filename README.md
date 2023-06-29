@@ -9,4 +9,6 @@ The future scope of the Today-I-Learned project includes the addition of a user 
 
  ![1](https://github.com/arushisinhaa/Today-I-Learned-Full-Stack-Website/assets/99676077/eb577f3d-aaf2-46a0-8a62-fcf830ca9b8d)
 ![2](https://github.com/arushisinhaa/Today-I-Learned-Full-Stack-Website/assets/99676077/080feb19-2c4d-4400-a59a-64a2033c564f)
+![1](https://github.com/arushisinhaa/Today-I-Learned-Full-Stack-Website/assets/99676077/4af4d263-303c-4999-8885-0042845c0a93)
+
 
